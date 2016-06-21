@@ -1,0 +1,28 @@
+name: TheSunshineScrolls
+favicon: null
+layout_spectrum: 0.4521759015042335
+typography_spectrum: 0.6872440029401332
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07242853194475174
+  lightness: 0.8894521191250533
+  saturation: 0.80473552364856
+  rhythmicContrast: 0.5856748933438212
+purpose: []
